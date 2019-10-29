@@ -1,0 +1,4 @@
+server:
+  default-uri: http://localhost:8080/ws/user
+  username: user
+  password: password

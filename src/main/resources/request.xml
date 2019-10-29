@@ -1,0 +1,10 @@
+<soapenv:Envelope xmlns:soapenv="http://schemas.xmlsoap.org/soap/envelope/"
+                  xmlns:us="http://www.example/springbootsoapws/api/userWs">
+    <soapenv:Header/>
+    <soapenv:Body>
+        <us:userRequest>
+            <us:name>Gizem</us:name>
+        </us:userRequest>
+    </soapenv:Body>
+
+</soapenv:Envelope>
